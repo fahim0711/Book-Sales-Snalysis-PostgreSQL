@@ -33,4 +33,5 @@ Book and order data analysis using LEFT JOIN
 PostgreSQL, SQL Joins, Aggregate Functions, Window Functions, Sales Analysis, Customer Analysis, and Inventory Analysis.
 
 ##Author
+
 MD FAHIM
